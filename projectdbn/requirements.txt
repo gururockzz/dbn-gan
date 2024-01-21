@@ -1,0 +1,8 @@
+pytorch
+CUDA
+install deps pip install opencv-python glob2
+tensorflow
+numpy
+pandas
+cv2
+glob
